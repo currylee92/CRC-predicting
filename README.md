@@ -19,22 +19,10 @@ To get started with this project, first clone the repository and install the nec
 git clone https://github.com/<your_username>/liver-metastasis-prediction.git
 cd liver-metastasis-prediction
 pip install -r requirements.txt
-You can then run the project with the following command:
 
-bash
-Copy code
-python main.py
-Contributing
-Contributions to this project are welcome! If you would like to contribute, please fork the repository and submit a pull request.
-
-License
-This project is licensed under the terms of the MIT license.
 
 python
 Copy code
-
-This is a fairly generic README template, and you might want to customize it further to fit your project better. For example, you could add more details about the data you're using, the algorithms you've implemented, or the results you've achieved. You could also add instructions for how to use your project, how to interpret the results, or how to contribute.
-
 
 
 
