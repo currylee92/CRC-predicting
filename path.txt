@@ -1,0 +1,26 @@
+- data
+  - clinical.csv
+  - text.csv
+- src
+  - models
+    - ml_models.py
+    - bert_model.py
+  - fusion
+    - early_fusion.py
+    - late_fusion.py
+- tests
+  - test_ml_models.py
+  - test_bert_model.py
+  - test_fusion.py
+- utils
+  - data_utils.py
+  - model_utils.py
+- logs
+  - training.log
+- docs
+  - README.txt
+  - PROJECT_OVERVIEW.txt
+  - DATA_DESCRIPTION.txt
+- main.py
+- run.sh
+- requirements.txt
