@@ -11,14 +11,6 @@ This project aims to predict liver metastasis by combining machine learning mode
 - `Supplymentary Material-3.xlsx`: Contains supplementary material for the project.
 - `path.txt`: Contains path information.
 
-## Getting Started
-
-To get started with this project, first clone the repository and install the necessary requirements:
-
-```bash
-git clone https://github.com/<your_username>/liver-metastasis-prediction.git
-cd liver-metastasis-prediction
-pip install -r requirements.txt
 
 
 python
