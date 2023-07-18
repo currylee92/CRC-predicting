@@ -11,7 +11,7 @@ This project aims to predict liver metastasis by combining machine learning mode
 - `Supplymentary Material-3.xlsx`: Contains supplementary material for the project.
 - `path.txt`: Contains path information.
 
-
+## For any questions or help please contact currylee92@163.com
 
 python
 Copy code
